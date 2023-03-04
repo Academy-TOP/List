@@ -17,3 +17,6 @@ print(list)
 
 list.remove('Привет')
 print(list)
+
+list[0] = 100
+print(list)
