@@ -11,3 +11,9 @@ print(list)
 print(len(list))
 print(list[0][7:11])
 print("Индекс элемента - ", list.index('Привет'))
+
+list.pop(1)
+print(list)
+
+list.remove('Привет')
+print(list)
