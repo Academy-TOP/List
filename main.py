@@ -9,3 +9,4 @@ list.reverse()
 print(list)
 
 print(len(list))
+print(list[0][7:11])
