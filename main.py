@@ -1,1 +1,2 @@
-dasfdhgkhj
+list= []
+print(list)
