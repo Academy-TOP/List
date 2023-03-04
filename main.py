@@ -26,3 +26,12 @@ list_2 = [4, 5, 6]
 
 list_1.extend(list_2)
 print(list_1)
+
+list_3 = [3, 1, 2]
+list_3.sort(reverse = True)
+
+print(list_3)
+
+print(min(list_1))
+print(max(list_1))
+print(sum(list_1))
