@@ -10,3 +10,4 @@ print(list)
 
 print(len(list))
 print(list[0][7:11])
+print("Индекс элемента - ", list.index('Привет'))
